@@ -1,0 +1,1 @@
+A title attribute gives information about an element. 
